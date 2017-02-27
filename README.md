@@ -3,7 +3,7 @@ A dataset for bounding box prediction in underwater environments of the Aqua-fam
 
 The dataset is made available under the releases section as two .zip files: <b>VALID.zip</b> and <b>TRAINING.zip</b>. 
 
-The <b>TRAINING.zip</b> file contains data from 2015 and 2016 collected near the reef outside McGill Bellairs Research Institute in Barbados.
+The <b>TRAINING.zip</b> file contains data from 2015 and 2016 collected near the reef outside McGill Bellairs Research Institute in Barbados. <b>VALID.zip</b> contains data from 2017.
 
 Directory structure of the releases:
 
