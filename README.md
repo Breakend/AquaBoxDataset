@@ -7,6 +7,7 @@ The TRAINING.zip file contains data from 2015 and 2016 collected near the reef o
 
 Directory structure of the releases:
 
+<pre>
 VALID/TRAINING
     --> <folder_name> (capture session)
         --> img (raw images)
@@ -15,6 +16,7 @@ VALID/TRAINING
             --> NNNN.npy
         groundtruth_rect.txt (ground truth hand-made annotations of format [x_center, y_center, width, height] of the bounding box, all normalized by the image width and height respectively)
         annotations.pkl (original raw annotations file
+</pre>
         
         
         
