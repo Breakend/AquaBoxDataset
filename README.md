@@ -1,5 +1,5 @@
 # AquaBoxDataset 
-A dataset for bounding box prediction in underwater environments of the Aqua-family of hexapod robots. This dataset has hand-made annotations 
+A dataset for bounding box prediction in underwater environments of the Aqua-family of hexapod robots. This dataset has hand-made annotations of bounding boxes containing the hexapod. Sources range from GoPro cameras to various on-board cameras from a tailing robot.
 
 The dataset is made available under the releases section as two .zip files: <b>VALID.zip</b> and <b>TRAINING.zip</b>. 
 
