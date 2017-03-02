@@ -36,6 +36,4 @@ all normalized by the image width and height respectively
 </pre>
 
         
-If you use this dataset, please cite:
-
-TODO
+NOTE: THIS DATASET WILL NOT BE RELEASED UNTIL PUBLICATION OF THE RELATED WORK. PLEASE CONTACT THE AUTHOR IF THERE IS A NEED FOR IT BEFORE THAT TIME.
