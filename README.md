@@ -36,4 +36,15 @@ all normalized by the image width and height respectively
 </pre>
 
         
-NOTE: THIS DATASET WILL NOT BE RELEASED UNTIL PUBLICATION OF THE RELATED WORK. PLEASE CONTACT THE AUTHOR IF THERE IS A NEED FOR IT BEFORE THAT TIME.
+NOTE: THIS DATASET WILL NOT BE RELEASED UNTIL January 15, 2018 DUE TO INTELLECTUAL PROPERTY RIGHTS RESOLUTION AT THAT DATE. PLEASE CONTACT THE AUTHOR IF THERE IS A NEED FOR IT BEFORE THAT TIME.
+
+If you use this data or related work, please cite:
+
+```bibtex
+@INPROCEEDINGS{shkurti2017aqua,
+title={Underwater Multi-Robot Convoying using Visual Tracking by Detection},
+author={Shkurti, Florian and Chang, Wei-Di and Henderson, Peter and Islam, Md Jahidul and Camilo Gamboa Higuera, Juan and Li, Jimmy and Manderson, Travis and Xu, Anqi and Dudek, Gregory and Sattar, Junaed},
+Booktitle = {Proc. of The IEEE International Conference on Intelligent Robots and Systems (IROS) (in review)},
+Year = {2017}
+}
+```
